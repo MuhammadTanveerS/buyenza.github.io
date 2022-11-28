@@ -919,11 +919,11 @@ section {
 }
 
 .features .icon-box h3 {
-  font-weight: 700;
+  font-weight: 600;
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .features .icon-box h3 a {
